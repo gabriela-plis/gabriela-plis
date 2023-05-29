@@ -1,12 +1,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+there!;Welcome+to+my+github+page+👋" alt="Typing SVG" /></a>
 
-<h4 align="center">
+<h2 align="center">
  I am interested in getting Java Developer position.
-</h4>
+</h2>
 
 ---
-<h5>Technologies and tools:</h5>
+<h3>Technologies and tools:</h3>
 <div align="center">
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/25181517/202540780-999f189c-341a-438e-a7e3-b0838fda6645.png" alt="Spock" title="Spock"/></code>
